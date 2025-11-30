@@ -5,5 +5,6 @@ Repo to have all the poster and presentation
 [Poster (PDF)](PANTA_WiML.pdf)
 
 # IJCLR 2025 Presentation
-[Presentation (PPTX)](IJCLR_2025_7_Rojina_Panta.pptx) 
-[Poster (PDF)](PANTA_IJCLR.pdf)
+[Presentation (PPTX)](IJCLR_2025_7_Rojina_Panta.pptx)
+
+[Poster (PDF)](PANTA_IJCLR25.pdf)
